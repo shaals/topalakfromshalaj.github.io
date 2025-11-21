@@ -1,5 +1,4 @@
 # topalakfromshalaj.github.io
-A short letter to you from me.
 <!DOCTYPE html>
 <html lang="en">
   <head>
